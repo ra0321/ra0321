@@ -19,7 +19,7 @@ Constant learning and working are my first concerns and let me get the talented 
 🗹 Moralis Web3, The Graph<br />
 🗹 Hardhat, Truffle, Remix IDE<br />
 
-<br />
+<!-- <br />
 
 <div>
   <img height="180em" src="https://github-readme-stats-ra0321.vercel.app/api?username=ra0321&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -28,7 +28,7 @@ Constant learning and working are my first concerns and let me get the talented 
   
 ### Technology joke to keep you entertained!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Web%20Designer;Web%20Developer;Frontend%20Developer;Backend%20Developer;Ecommerce%20Developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
