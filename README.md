@@ -1,9 +1,9 @@
-<h2>Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
+<!-- <h2>Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2> -->
 
 <!-- | Hola | Olá | Bonjour | Привет | 你好 | こんにちは | أهلا | नमस्ते -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=640&lines=Hello+|+Hola+|+Bonjour+|+Привет+|+你好+|+こんにちは+|+नमस्ते;Welcome+to+my+profile+🌍)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=640&lines=Hello+|+Hola+|+Bonjour+|+Привет+|+你好+|+こんにちは+|+नमस्ते;Welcome+to+my+profile+🌍) -->
 
-Constant learning and working are my first concerns and let me get the talented relevant skills.
+<!-- Constant learning and working are my first concerns and let me get the talented relevant skills. -->
 
 🗹 Node.js, React.js, Vue.js, Angular<br />
 🗹 Golang, PHP, Python<br />
