@@ -5,8 +5,8 @@
 
 <!-- Constant learning and working are my first concerns and let me get the talented relevant skills. -->
 
-🗹 Node.js, React.js, Vue.js, Angular<br />
-🗹 Golang, PHP, Python, Solidity, Move<br />
+🗹 React.js, Vue.js, Angular<br />
+🗹 Node.js, Golang, PHP, Python, Solidity, Move<br />
 🗹 MySQL, PostgreSQL, MongoDB, Redis<br />
 🗹 Firebase, GCP, AWS<br />
 🗹 Wordpress, Laravel, Shopify, Django<br />
