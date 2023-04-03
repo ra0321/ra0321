@@ -6,18 +6,18 @@
 <!-- Constant learning and working are my first concerns and let me get the talented relevant skills. -->
 
 🗹 Node.js, React.js, Vue.js, Angular<br />
-🗹 Golang, PHP, Python<br />
+🗹 Golang, PHP, Python, Solidity, Move<br />
 🗹 MySQL, PostgreSQL, MongoDB, Redis<br />
 🗹 Firebase, GCP, AWS<br />
-🗹 Wordpress, Laravel, Magento, Shopify, Django<br />
-🗹 Blockchain, Ethereum, Smart Contract, Cosmos SDK<br />
-🗹 Solidity<br />
+🗹 Wordpress, Laravel, Shopify, Django<br />
+🗹 Blockchain, Ethereum, Aptos, Cosmos SDK<br />
+🗹 Smart Contract<br />
 🗹 Web3.js, Ethers.js<br />
 🗹 DeFi, NFT, P2E Game<br />
 🗹 Uniswap, PancakeSwap, 0x Protocol, OpenSea<br />
 🗹 Oracle, Chainlink, IPFS<br />
 🗹 Moralis Web3, The Graph<br />
-🗹 Hardhat, Truffle, Remix IDE<br />
+🗹 Hardhat, Truffle, Remix IDE, Foundry<br />
 
 <!-- <br />
 
