@@ -6,11 +6,11 @@
 <!-- Constant learning and working are my first concerns and let me get the talented relevant skills. -->
 
 🗹 React.js, Vue.js, Angular<br />
-🗹 Node.js, Golang, PHP, Python, Solidity, Move<br />
+🗹 Node.js, Golang, PHP, Python, Solidity<br />
 🗹 MySQL, PostgreSQL, MongoDB, Redis<br />
 🗹 Firebase, GCP, AWS<br />
 🗹 Wordpress, Laravel, Shopify, Django<br />
-🗹 Blockchain, Ethereum, Aptos, Cosmos SDK<br />
+🗹 Blockchain - Ethereum, Aptos, Cosmos SDK<br />
 🗹 Smart Contract<br />
 🗹 Web3.js, Ethers.js<br />
 🗹 DeFi, NFT, P2E Game<br />
